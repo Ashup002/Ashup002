@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">Passionate Computer Science Engineer | Innovating with Code, Problem-Solving, and Technology</h3>
+<h3 align="center">👨‍💻Passionate Computer Science Engineer | Innovating with Code, and Technology</h3>
 
-- 🔭 I’m currently working on **Face Recognition**
+- 🔭 I’m currently working on **Face Recognition Project**
 
 - 🌱 I’m currently learning **OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashup002/](https://github.com/Ashup002/)
 
-- 💬 Ask me about **Python**
+- 📫 Let’s Collaborate: **ashutoshrpatil1008@gmail.com**
 
-- 📫 How to reach me **ashutoshrpatil1008@gmail.com**
+- 💼 Career Goal: To create impactful tech solutions and make a difference
+
+- 🎯 Code, Learn, Innovate, Repeat!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
