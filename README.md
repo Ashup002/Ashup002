@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">👨‍💻Passionate Computer Science Engineer | Innovating with Code, and Technology</h3>
 
-- 🔭 I’m currently working on **Face Recognition Project**
-
-- 🌱 I’m currently learning **OpenCV**
+- 🔭 I’m currently working on **AI Database Query Engine**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashup002/](https://github.com/Ashup002/)
 
